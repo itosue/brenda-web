@@ -21,7 +21,7 @@ its package manager (npm) installed.  You can get them from [http://nodejs.org/]
 Clone the brenda-web repository using [git][git]:
 
 ```
-git clone https://github.com/njeirath/brenda-web.git
+git clone https://github.com/itosue/brenda-web.git
 cd brenda-web
 ```
 
